@@ -1,0 +1,7 @@
+#Mon Dec 02 17:41:39 GST 2019
+base.0=S\:\\android_parcours\\Projet_2_Analysez_les_tests_de_l'application_MagIC_GitHub\\Projet_Analysez_les_tests_dune_application\\MagicGithub\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=S\:\\android_parcours\\Projet_2_Analysez_les_tests_de_l'application_MagIC_GitHub\\Projet_Analysez_les_tests_dune_application\\MagicGithub\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
